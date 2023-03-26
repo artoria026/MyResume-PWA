@@ -11,6 +11,16 @@ const Footer = () => (
           <span aria-label="love" role="img">
             💖
           </span>{' '}
+          by{' '}
+          <a
+            href="https://smakosh.com/?ref=portfolio-dev"
+            rel="noopener noreferrer"
+            target="_blank"
+            className="text-brand-primary"
+          >
+            Smakosh
+          </a>
+        </span>
       </div>
       <div className="flex items-center">
         {social.map(({ id, name, link, icon }) => (
