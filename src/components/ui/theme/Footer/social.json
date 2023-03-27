@@ -1,14 +1,26 @@
 [
   {
     "id": 0,
-    "name": "GitLab",
-    "link": "https://gitlab.com/artoria026",
-    "icon": "/assets/social/gitlab.svg"
+    "name": "Telegram",
+    "link": "https://t.me/artoria026",
+    "icon": "/assets/social/telegram.svg"
   },
   {
     "id": 1,
     "name": "Github",
     "link": "https://github.com/artoria026",
     "icon": "/assets/social/github.svg"
+  },
+  {
+    "id": 2,
+    "name": "StackOverflow",
+    "link": "https://stackoverflow.com",
+    "icon": "/assets/social/stackoverflow.svg"
+  },
+  {
+    "id": 3,
+    "name": "Twitter",
+    "link": "https://twitter.com",
+    "icon": "/assets/social/twitter.svg"
   }
 ]
