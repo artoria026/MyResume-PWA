@@ -7,19 +7,7 @@ const Footer = () => (
       <div className="mb-8 md:mb-0">
         <h2 className="text-brand-primary font-bold text-2xl mb-4">Arturo Chavira</h2>
         <span className="text-brand-primary">
-          © All rights are reserved | {new Date().getFullYear()} | Made with{' '}
-          <span aria-label="love" role="img">
-            💖
-          </span>{' '}
-          by{' '}
-          <a
-            href="https://smakosh.com/?ref=portfolio-dev"
-            rel="noopener noreferrer"
-            target="_blank"
-            className="text-brand-primary"
-          >
-            Smakosh
-          </a>
+          © All rights are reserved | {new Date().getFullYear()}
         </span>
       </div>
       <div className="flex items-center">
