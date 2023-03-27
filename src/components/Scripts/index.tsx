@@ -9,6 +9,9 @@ const Scripts = () => (
       strategy="afterInteractive"
       src={`https://www.googletagmanager.com/gtag/js?id=${config.googleAnalyticsID}`}
     />
+		<Script>
+			src={`src/main.js`}
+		</Script>
     <Script
       id="gtag"
       strategy="afterInteractive"

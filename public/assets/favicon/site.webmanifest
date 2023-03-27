@@ -4,7 +4,7 @@
   "description": "Personal Resume from github repositorys as PWA",
   "icons": [
     {
-      "src": "/assets/favicon/bag.png",
+      "src": "/assets/favicon/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     }
