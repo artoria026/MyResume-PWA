@@ -25,7 +25,7 @@ const Scripts = () => (
 		/>
 		<Script
 			strategy="afterInteractive"
-			src="src/main.js"
+			src="../../main.js"
 		/>
 	</>
 );
