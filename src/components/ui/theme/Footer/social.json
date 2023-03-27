@@ -3,18 +3,24 @@
     "id": 0,
     "name": "Telegram",
     "link": "https://t.me/artoria026",
-    "icon": "/assets/social/telegram.svg"
+    "icon": "/assets/social/telegram.png"
   },
   {
     "id": 1,
-    "name": "Github",
+    "name": "GitHub",
     "link": "https://github.com/artoria026",
-    "icon": "/assets/social/github.svg"
+    "icon": "/assets/social/github.png"
   },
   {
     "id": 2,
     "name": "GitLab",
     "link": "https://gitlab.com/artoria026",
     "icon": "/assets/social/gitlab.png"
+  },
+  {
+    "id": 3,
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/arturo-chavira-44a714262/",
+    "icon": "/assets/social/linkedin.png"
   }
 ]
