@@ -13,26 +13,8 @@
   },
   {
     "id": 2,
-    "name": "StackOverflow",
-    "link": "https://stackoverflow.com",
-    "icon": "/assets/social/stackoverflow.svg"
-  },
-  {
-    "id": 3,
-    "name": "Twitter",
-    "link": "https://twitter.com",
-    "icon": "/assets/social/twitter.svg"
-  },
-  {
-    "id": 4,
     "name": "GitLab",
-    "link": "https://twitter.com",
-    "icon": "/assets/social/gitlab.png"
-  },
-  {
-    "id": 5,
-    "name": "GitLab",
-    "link": "https://twitter.com",
-    "icon": "/assets/social/gitlab.png"
+    "link": "https://gitlab.com/artoria026",
+    "icon": "/assets/social/github.svg"
   }
 ]
