@@ -1,14 +1,15 @@
 {
-    "name": "",
-    "short_name": "",
-    "icons": [
-        {
-            "src": "/assets/favicon/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone"
+  "name": "Arturo Chavira PWA Resume",
+  "short_name": "ART_PWA",
+  "description": "Personal resume based on react PWA",
+  "icons": [
+    {
+      "src": "/assets/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
 }
