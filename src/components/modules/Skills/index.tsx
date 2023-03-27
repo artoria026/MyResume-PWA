@@ -7,7 +7,7 @@ const Skills = () => (
 			<div className="flex-none lg:flex-1">
 				<Image
 					src="/assets/illustrations/skills.svg"
-					alt="I’m John and I’m a Backend & Devops engineer!"
+					alt="I’m Arturo and I’m a Python FullStack software engineer!"
 					width={447}
 					height={326}
 				/>
