@@ -28,5 +28,11 @@
     "name": "GitLab",
     "link": "https://twitter.com",
     "icon": "/assets/social/gitlab.png"
+  },
+  {
+    "id": 5,
+    "name": "GitLab",
+    "link": "https://twitter.com",
+    "icon": "/assets/social/gitlab.png"
   }
 ]
