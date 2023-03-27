@@ -2,25 +2,25 @@
   {
     "id": 0,
     "name": "Telegram",
-    "link": "https://t.me/smakosh",
-    "icon": "/assets/social/telegram.svg"
+    "link": "https://t.me/artoria026",
+    "icon": "/assets/social/telegram.png"
   },
   {
     "id": 1,
-    "name": "Github",
-    "link": "https://github.com/smakosh",
-    "icon": "/assets/social/github.svg"
+    "name": "GitHub",
+    "link": "https://github.com/artoria026",
+    "icon": "/assets/social/github.png"
   },
   {
     "id": 2,
-    "name": "StackOverflow",
-    "link": "https://stackoverflow.com/users/story/7396786",
-    "icon": "/assets/social/stackoverflow.svg"
+    "name": "GitLab",
+    "link": "https://gitlab.com/artoria026",
+    "icon": "/assets/social/gitlab.png"
   },
   {
     "id": 3,
-    "name": "Twitter",
-    "link": "https://twitter.com/smakosh",
-    "icon": "/assets/social/twitter.svg"
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/arturo-chavira-44a714262/",
+    "icon": "/assets/social/linkedin.png"
   }
 ]
